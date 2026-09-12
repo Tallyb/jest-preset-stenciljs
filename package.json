@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Tallyb/jest-preset-stenciljs#readme",
   "devDependencies": {
-    "@stencil/core": "2.17.0",
+    "@stencil/core": "4.45.0",
     "@types/node": "24.12.4",
     "ts-jest": "28.0.5"
   }
